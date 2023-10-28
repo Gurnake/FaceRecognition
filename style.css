@@ -1,0 +1,22 @@
+.note{
+    font-size: x-large;
+
+}
+
+.heading {
+    font-size: xx-large;
+
+}
+
+#camera 
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+
+}
+
+.state{
+    width: 50%;
+
+}
